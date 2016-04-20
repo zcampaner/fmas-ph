@@ -1,0 +1,61 @@
+2 edgar morga_carlo@yahoo.com www.google.com asdasdazxczxc Male
+
+3 CharotHermona asdad@gmail.com www.chuvator.com sadfksdfj Female
+
+4 CharotHermona alice_pinkstar@yahoo.com www.chuvator.com sdfxcvxcv Male
+
+5 CharotHermona morga_carlo@yahoo.com www.chuvator.com aewqweqwe Female
+
+
+
+kuntahay 4 imohang i edit
+
+ang imong i edit kuntahay kay name
+
+
+string id = 4
+
+string newname = "wakoko"
+
+string s = sulodtanan sa file.split(\n)
+
+string bag.oNaDataTANAN
+
+
+for x = 0 to s.length{ 
+
+string s2 = s[x].split(space)
+
+if(id == s2[0]){
+
+s[1] = newname;
+
+string newData = "";
+
+for y = 0 to s2.length{
+
+newData += s2[y];
+
+}end sa for ni
+
+
+bag.oNaDataTANAN += newData + "\n";
+
+
+}end sa if ni
+
+else{
+
+bag.oNaDataTANAN += s[x] + "\n";
+
+}end sa else ni
+
+
+}end sa tanan for
+
+humanag edit dri
+
+------------------------------
+
+ang imong ibutang balik sa textfile kay bag.oNaDataTANAN na string haha
+
